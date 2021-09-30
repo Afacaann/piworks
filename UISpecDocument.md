@@ -1,5 +1,5 @@
 <h1> User Interface Specification Document </h1>
-<p> This document prepared for P.I Works company Technical assigment. </p>
+<p> This document prepared by Fatih Afacan for P.I Works company Technical assigment. </p>
 <h2> Purpose: </h2>
 <p> To provide that Software Engineer understands how UI is working in our minds. </p>
 <h2> Page:</2>
