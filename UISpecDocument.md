@@ -8,8 +8,8 @@
 <h3> Table:</h3>
 <p>• There must be a table in front of the screen. This table includes four column of the parameters of users.</p>
 <p>• Those are ID, User Name, Email and Enabled/Disabled situation of user.</p>
-<h4> New User Button:</h4>
-<p>• On click sign up area must be opened on the right sight of the screen.</p>
+<h4> New User form:</h4>
+<p>• On click sign up form must be opened on the right sight of the screen.</p>
 <p>• Users need to have </p>
 <p>•ID(Integer,Must be <strong>Primary key</strong>, given by the system`s itself), </p>
 <p>•Username(varchar), </p>
