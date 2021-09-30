@@ -4,7 +4,7 @@
 <p> To provide that Software Engineer understands how UI is working in our minds. </p>
 <h2> Page:</2>
 <h3> Header:</h3>
-<p>• Simple header including New User button on left side of the header , Hide disabled user checkbox next to New user button and Save User button on the right sight of the header. </p>
+<p>• Simple header including New User button on left side of the header , Hide disabled user checkbox next to New User button and Save User button on the right sight of the header. </p>
 <h3> Table:</h3>
 <p>• There must be a table in front of the screen. This table includes four column of the parameters of users.</p>
 <p>• Those are ID, User Name, Email and Enabled/Disabled situation of user.</p>
